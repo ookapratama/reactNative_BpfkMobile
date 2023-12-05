@@ -1,0 +1,29 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/AlbertSans-Bold.ttf",
+      "sha1": "665c45e9c18d41c69a962f07902e85425d77b00e"
+    },
+    {
+      "path": "src/assets/fonts/AlbertSans-Medium.ttf",
+      "sha1": "153e6dc1f2cce2293d899db162ac059ae48d3f70"
+    },
+    {
+      "path": "src/assets/fonts/AlbertSans-Regular.ttf",
+      "sha1": "38520c5555550220fe97308a587a69bd1ec899db"
+    },
+    {
+      "path": "src/assets/fonts/AlbertSans-SemiBold.ttf",
+      "sha1": "27b77f0f36c519cb2fcfef4534227ae8afbbc47f"
+    },
+    {
+      "path": "src/assets/fonts/Overpass-ExtraBold.ttf",
+      "sha1": "f126035fbd60cf3c0de9297f3876affd8076024f"
+    },
+    {
+      "path": "src/assets/fonts/Overpass-ExtraBoldItalic.ttf",
+      "sha1": "28353aa77f278658e19194d5dc288db8b3d0c715"
+    }
+  ]
+}
